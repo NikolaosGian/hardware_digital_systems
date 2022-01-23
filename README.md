@@ -6,7 +6,7 @@
   <h3 align="center">Aristotle University of Thessaloniki</h3>
   <h4 align="center">School of Electrical & Computer Engineering</h4>
   <p align="center">
-    Contributors: Iosif Xristostomou, Nikolaos Giannopoulos
+    Contributors: Iosif Xrustostomou, Nikolaos Giannopoulos
     <br />
     Winter Semester 2021 - 2022
     <br />
