@@ -19,4 +19,4 @@
 <br/>
 
 # Description
-Simple CPU design
+Simple CPU design , check the [report](report.pdf)
